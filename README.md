@@ -1,4 +1,4 @@
-# Color Analyzer
+# Color Analyzer/Extractor
 ## By James Hill
 ## Purpose:
 ### This Python script extracts the most common colors from an image and displays them using the Turtle module. It's a fun way to visualize the predominant hues in an image.
